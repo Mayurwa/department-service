@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: department-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mayur
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/department-service
+Created-By: Maven Integration for Eclipse
+
